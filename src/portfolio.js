@@ -9,23 +9,23 @@ const settings = {
 //Home Page
 const greeting = {
   title: "Hello 👋.",
-  title2: "Khush Chadha",
-  logo_name: "Khush ",
+  title2: "Kalash Srivastava",
+  logo_name: "Kalash ",
   nickname: "K",
-  full_name: "Khush Chadha",
+  full_name: "Kalash Srivastava",
   subTitle: "Software Developer, A Enthusiast 🔥. Always learning.",
   resumeLink:
-  "https://drive.google.com/file/d/1Ogz0ACuRnOre976NQMsxWmuPqmRH_IjX/view?usp=drivesdk",
-  mail: "mailto:khushchadha03@gmail.com",
+  "https://drive.google.com/file/d/1MsdgiBGZFYC1-Ulf10ja3yNqMySkNMLx/view",
+  mail: "mailto:kalashsrivasatavaoff@gmail.com",
 };
 
 const socialMediaLinks = {
-  github: "https://github.com/khushchadha",
-  linkedin: "https://www.linkedin.com/in/khush-chadha-7961ab247/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-  gmail: "khushchadha03@gmail.com",
+  github: "https://github.com/kalashsrivastava",
+  linkedin: "https://www.linkedin.com/in/kalash-srivastava-188a10221/",
+  gmail: "kalashsrivastava@gmail.com",
   // gitlab: "/",
-  // twitter: "https://twitter.com/kalash_precious",
-  instagram: "https://www.instagram.com/khush_chadha_/?igshid=bGtpcGoyNGNtcmNv",
+  twitter: "https://twitter.com/kalash_precious",
+  // instagram: "https://www.instagram.com/hari_kanani_/",
 };
 
 const skills = {
@@ -393,7 +393,7 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "Khush.jpg",
+    profile_image_path: "kalash.jpg",
     description:
       "You can contact me at the places mentioned below. I will try to get back to you as fast as I can. ",
   },
@@ -401,7 +401,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "I don't blog frequently.",
-    link: "/contact",
+    link: "https://twitter.com/kalash_precious",
     avatar_image_path: "blogs_image.svg",
   },
 };
